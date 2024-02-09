@@ -1,1 +1,33 @@
-THINK before you code...
+Class Name: MarioKartPlayer
+Purpose:
+Algorithm:
+  1. Defines playerName variable
+  2. Defines charcter varabible
+  3. Defines speed variable
+
+Class Name: MarioKartPlayer
+Purpose: General Constructor 
+Algorithm:
+1. Initializes playerName variable
+2. Initializes character variable
+3. Initializes speed variable 
+
+Class Name: boost
+Purpose: Speeds the character up
+Algorithm:
+  1. Add 15 to speed
+
+Class Name: showStats
+Purpose: shows the stats of the players
+Algorithm:
+  1. Output the name
+  2. Output character name
+  3. Output speed
+
+Class Name: main
+Purpose: General Constructor 
+Algorithm:
+  1. Create player1 and player2 instances of MarioKartPlayer with different attributes
+  2. Display initial stats of player1 and player2
+  3. Boost speed of player1 and player2
+  4. Display stats after boosting for player1 and player2
